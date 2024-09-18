@@ -11,7 +11,7 @@
 
 <div style="display: inline_block"><br/>
     <img align="Center" alt="Python"  src =https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white />
-        <img align="Center" alt="SQL"  src =https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white />
+    <img align="Center" alt="SQL"  src =https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white />
 </div><br/>
 
 Aspirante em tenologia, iniciando os estudos com foco em analise de dados. Sua ajuda será muito bem vinda, assim como espero logo poder contribuir de alguma forma.
