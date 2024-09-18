@@ -5,7 +5,7 @@
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/message/7IEYZEJWATJNH1)
 
 ![Juan Lima GitHub stats](https://github-readme-stats.vercel.app/api?username=juannlima73&show_icons=true&theme=dracula)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juannlima73&size_weight=0.5&count_weight=0.5)
 
 ### Teconologias que utilizo no dia a dia
 
